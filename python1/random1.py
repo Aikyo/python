@@ -1,0 +1,10 @@
+import random
+print(random.random())
+print(random.uniform(12,23))
+print(random.choice(['win', 'lose', 'draw']))
+deck = 'ace two three four'.split()
+strr = 'i,am,kiko'.split(',')
+print(strr)
+print(deck)
+random.shuffle(deck)
+print(deck)
