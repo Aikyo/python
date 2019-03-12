@@ -2,7 +2,7 @@ def getLines():
     with open('C:/herman1.txt','w') as f:
         return f
 
-fo = open('C:/herman2.txt','a')
+fo = open('D:/herman2.txt','a')
 print(fo.name)
 string = "i won't be happy anymore!"
 fo.write(string)
@@ -12,7 +12,7 @@ model a:append w:覆盖
 """
 
 
-fo = open('C:/herman2.txt','r')
+fo = open('D:/herman2.txt','r')
 herman = fo.read()
 print(herman)
 fo.close()
