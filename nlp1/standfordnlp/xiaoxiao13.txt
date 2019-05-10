@@ -1,0 +1,4 @@
+雨打/PERSON 蕉叶/PERSON 又/O 潇潇/O 了/O 几/NUMBER 夜/O ，/O 我/O 等/O 春雷/O 来/O 提醒/O 你/O 爱/O 谁/O
+雨打/NN 蕉叶/NN 又/AD 潇潇/VV 了/AS 几/CD 夜/NN ，/PU 我/PN 等/ETC 春雷/NN 来/MSP 提醒/VV 你/PN 爱/VV 谁/PN
+牧笛/O 横吹/O ，/O 黄酒/O 小菜/O 又/O 几碟/O
+牧笛/NN 横吹/VV ，/PU 黄酒/NR 小菜/NN 又/AD 几碟/VV

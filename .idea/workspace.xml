@@ -2,9 +2,107 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7a13bbc-87de-4f24-88c7-b11e3436cf6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python1/random1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python1/range1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/1.two sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/10.matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/11.rotated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/12.factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/13.mergesort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/2.two linked list sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/3.longest substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/4.integer reverse__easy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/5.string to integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/6.three sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/7.four_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/8.bubblesort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/9.permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/1.intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_question/1.implement_queue_with_two_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_question/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matplotlib1/meshgrid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matplotlib1/plot11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matplotlib1/scatter1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml_interview/bayes/b1_naive_bayes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml_interview/kr_tf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/bultin_function/3.dir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/bultin_function/4.variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/bultin_function/map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/bultin_function/zip1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/collections/2.tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/collections/c1_queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/collections/dict1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/json/1.intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/os_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/pachong/1.intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/pickle/1.intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/random_/randint_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/urllib_/1.intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/迭代器-生成器/1.intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/1.exactly segmetation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/fenci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/hanlp/1.hanlp segmentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/jiaoye" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/jieba/1.jieba_keywords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/jieba/2.jieba_usedict_segementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/jieba/3.jieba_posseg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/jieba/4.jieba_lyb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/jieba/guoqinlun.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/jieba/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/jieba/端午的咸鸭蛋" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/nlp/3.adjust_frequency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/nlp/4.postag_filter/extract_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/nlp/4.postag_filter/hanlp词性列表.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/nlp/4.postag_filter/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/nlp/4.postag_filter/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/nlp/4.postag_filter/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/nlp/4.postag_filter/tokenizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/nltk/1.intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/standfordnlp/1.intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/standfordnlp/yuda.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp1/yuda" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pil1/tutorialpil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python1/global1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python1/io1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python1/matplot11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python1/matrix3_multiply_dot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python1/object/self1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python1/object1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/2.range()_generate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/b10_is.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/b11_hash_python_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/b12_eval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/b13_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/b14_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/b15_global.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/b16_string_format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/b17_if_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/b19_list生成式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/b1_numerical_system_transformation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/b20_iter_next.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/b21_prime_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/b2_enumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/b3_str_tuple_list_dict_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/b4_ndarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/b5_lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/b6_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/b7_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/b8_zip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_interview/basic_conception/b9_pass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sata_structure/tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow1/activationFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow1/basic1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow1/basic2_conception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow1/fetch_feed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow1/graph1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow1/mnist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow1/neuralnetwork1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow1/nonLinearRegression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow1/random_normal().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow1/saver1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python1/random1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python1/random1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python1/range1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python1/range1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,79 +110,100 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello.py">
+        <entry file="file://$PROJECT_DIR$/sata_structure/tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            <state relative-caret-position="418">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python1/basic.py">
+        <entry file="file://$PROJECT_DIR$/module/random_/randint_.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="217" selection-start-line="217" selection-end-line="217" />
+            <state relative-caret-position="88">
+              <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/bultin_function/map.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/collections/2.tuple.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/bultin_function/3.dir.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/bultin_function/4.variable.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/json/1.intro.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="48" lean-forward="true" selection-start-line="5" selection-end-line="6" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module/pachong/1.intro.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
               <folding>
-                <element signature="e#2122#2133#0" expanded="true" />
+                <element signature="e#320#349#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python1/matrix.py">
+        <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-313451744/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1210">
-              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="2684">
+              <caret line="122" column="4" selection-start-line="122" selection-start-column="4" selection-end-line="122" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python1/matrix2.py">
+        <entry file="file://C:/ProgramData/Anaconda3/Lib/random.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python1/range1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python1/random1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python1/axis.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python1/iteration.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            <state relative-caret-position="5588">
+              <caret line="263" column="8" selection-start-line="263" selection-start-column="8" selection-end-line="263" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -98,32 +217,80 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>randint</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hello.py" />
-        <option value="$PROJECT_DIR$/python1/basic.py" />
-        <option value="$PROJECT_DIR$/python1/concatenate.py" />
-        <option value="$PROJECT_DIR$/python1/iteration.py" />
-        <option value="$PROJECT_DIR$/python1/axis.py" />
-        <option value="$PROJECT_DIR$/python1/matrix.py" />
-        <option value="$PROJECT_DIR$/python1/matrix2.py" />
-        <option value="$PROJECT_DIR$/python1/range.py" />
-        <option value="$PROJECT_DIR$/python1/random.py" />
+        <option value="$PROJECT_DIR$/python_interview/basic_conception/b15_global.py" />
+        <option value="$PROJECT_DIR$/python_interview/basic_conception/b16_string_format.py" />
+        <option value="$PROJECT_DIR$/python_interview/basic_conception/b17_if_else.py" />
+        <option value="$PROJECT_DIR$/python_interview/basic_conception/b19_list生成式.py" />
+        <option value="$PROJECT_DIR$/python_interview/basic_conception/b7_map.py" />
+        <option value="$PROJECT_DIR$/python_interview/basic_conception/b20_iter_next.py" />
+        <option value="$PROJECT_DIR$/python_interview/basic_conception/b21_prime_number.py" />
+        <option value="$PROJECT_DIR$/algorithm/1.two sum.py" />
+        <option value="$PROJECT_DIR$/algorithm/3.longest substring.py" />
+        <option value="$PROJECT_DIR$/algorithm/4.integer reverse__easy.py" />
+        <option value="$PROJECT_DIR$/algorithm/5.string to integer.py" />
+        <option value="$PROJECT_DIR$/algorithm/6.three sum.py" />
+        <option value="$PROJECT_DIR$/algorithm/8.bubblesort.py" />
+        <option value="$PROJECT_DIR$/algorithm/7.four_sum.py" />
+        <option value="$PROJECT_DIR$/algorithm/9.permutation.py" />
+        <option value="$PROJECT_DIR$/algorithm/10.matrix.py" />
+        <option value="$PROJECT_DIR$/algorithm/11.rotated.py" />
+        <option value="$PROJECT_DIR$/ml_interview/bayes/b1_naive_bayes.py" />
         <option value="$PROJECT_DIR$/python1/random1.py" />
+        <option value="$PROJECT_DIR$/module/os_.py" />
+        <option value="$PROJECT_DIR$/module/urllib_/1.intro.py" />
+        <option value="$PROJECT_DIR$/module/collections/c1_que.py" />
+        <option value="$PROJECT_DIR$/module/collections/c1_queue.py" />
+        <option value="$PROJECT_DIR$/nlp1/jieba/1.jieba_keywords.py" />
+        <option value="$PROJECT_DIR$/nlp1/jieba/3.jieba_posseg.py" />
+        <option value="$PROJECT_DIR$/nlp1/jieba/2.jieba_usedict_segementation.py" />
+        <option value="$PROJECT_DIR$/nlp1/jieba/4.jieba_lyb.py" />
+        <option value="$PROJECT_DIR$/nlp1/jieba/mydict.txt" />
+        <option value="$PROJECT_DIR$/nlp1/fenci.py" />
+        <option value="$PROJECT_DIR$/python1/object1.py" />
+        <option value="$PROJECT_DIR$/python1/object/self1.py" />
+        <option value="$PROJECT_DIR$/ml_interview/kr_tf.py" />
+        <option value="$PROJECT_DIR$/api/1.intro.py" />
+        <option value="$PROJECT_DIR$/python_interview/basic_conception/b5_lambda.py" />
+        <option value="$PROJECT_DIR$/module/collections/dict1.py" />
+        <option value="$PROJECT_DIR$/module/pickle/1.intro.py" />
+        <option value="$PROJECT_DIR$/module/bultin_function/zip1.py" />
+        <option value="$PROJECT_DIR$/algorithm/12.factorial.py" />
+        <option value="$PROJECT_DIR$/algorithm/13.mergesort.py" />
+        <option value="$PROJECT_DIR$/algorithm/14.quicksort.py" />
+        <option value="$PROJECT_DIR$/interview_question/test.py" />
+        <option value="$PROJECT_DIR$/interview_question/1.implement_queue_with_two_stack.py" />
+        <option value="$PROJECT_DIR$/module/迭代器-生成器/1.intro.py" />
+        <option value="$PROJECT_DIR$/sata_structure/tree.py" />
+        <option value="$PROJECT_DIR$/module/random_/randint_.py" />
+        <option value="$PROJECT_DIR$/module/collections/2.tuple.py" />
+        <option value="$PROJECT_DIR$/module/bultin_function/map.py" />
+        <option value="$PROJECT_DIR$/module/bultin_function/3.dir.py" />
+        <option value="$PROJECT_DIR$/module/bultin_function/4.variable.py" />
+        <option value="$PROJECT_DIR$/module/json/1.intro.py" />
+        <option value="$PROJECT_DIR$/module/pachong/1.intro.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1386" />
-    <option name="height" value="788" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <showMembers ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -139,20 +306,58 @@
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="python1" type="462c0819:PsiDirectoryNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Changed Files'; set:Changed Files; ALL; class com.intellij.packageDependencies.ChangeListScope">
+          <expand>
             <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="module" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="module" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pachong" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="sata_structure" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\island\Desktop\Herman_workspace\python\nlp1\jieba" />
+      <recent name="C:\Users\island\Desktop\Herman_workspace\python\nlp1\nlp\4.postag_filter" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -166,8 +371,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.random1">
-    <configuration name="iteration" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1.intro (1)">
+    <configuration name="1.intro (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="testpy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,11 +380,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module/pachong" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python1/iteration.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module/pachong/1.intro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,7 +393,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1.intro" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="testpy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,11 +401,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module/json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python1/matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module/json/1.intro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +414,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="matrix2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2.tuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="testpy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,11 +422,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module/collections" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python1/matrix2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module/collections/2.tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,7 +435,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="random1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3.dir" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="testpy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,11 +443,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module/bultin_function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python1/random1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module/bultin_function/3.dir.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,7 +456,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="range" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4.variable" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="testpy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -259,11 +464,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module/bultin_function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\island\Desktop\Herman_workspace\python\python1\range1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module/bultin_function/4.variable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,11 +479,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.random1" />
-        <item itemvalue="Python.range" />
-        <item itemvalue="Python.matrix2" />
-        <item itemvalue="Python.matrix" />
-        <item itemvalue="Python.iteration" />
+        <item itemvalue="Python.1.intro (1)" />
+        <item itemvalue="Python.1.intro" />
+        <item itemvalue="Python.4.variable" />
+        <item itemvalue="Python.3.dir" />
+        <item itemvalue="Python.2.tuple" />
       </list>
     </recent_temporary>
   </component>
@@ -296,16 +501,35 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1386" height="788" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15356083" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987775" visible="true" weight="0.20535715" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5012225" side_tool="true" weight="0.15401785" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978038" weight="0.28327644" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7240117" weight="0.4129693" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.27598828" side_tool="true" weight="0.39873418" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15356083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30122325" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43119267" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39908257" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -316,69 +540,380 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python1/io1.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tensorflow1/neuralnetwork1.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module/bultin_function/4.variable.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-431116295/time.py" />
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-431116295/builtins.py" />
-    <entry file="file://$PROJECT_DIR$/hello.py">
+    <entry file="file://$PROJECT_DIR$/module/os_.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        <state relative-caret-position="616">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python1/basic.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="217" selection-start-line="217" selection-end-line="217" />
+        <state relative-caret-position="3564">
+          <caret line="191" column="8" selection-start-line="191" selection-start-column="8" selection-end-line="191" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/jieba/analyse/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/jieba/analyse/tfidf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/urllib_/1.intro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-313451744/numpy/core/_multiarray_umath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="748" column="4" selection-start-line="748" selection-start-column="4" selection-end-line="748" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp1/jieba/1.jieba_keywords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp1/jieba/yadanpo8seg59.txt" />
+    <entry file="file://$PROJECT_DIR$/nlp1/jieba/3.jieba_posseg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp1/jieba/2.jieba_usedict_segementation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp1/jieba/lyb.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp1/jieba/jd.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp1/jieba/mydict.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp1/jieba/4.jieba_lyb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="9" selection-end-column="23" />
           <folding>
-            <element signature="e#2122#2133#0" expanded="true" />
+            <element signature="e#0#12#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python1/iteration.py">
+    <entry file="file://$PROJECT_DIR$/nlp1/cccc.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp1/fenci.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        <state relative-caret-position="330">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python1/axis.py">
+    <entry file="file://$PROJECT_DIR$/nlp1/hanlp/1.hanlp segmentation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        <state relative-caret-position="946">
+          <caret line="43" column="14" lean-forward="true" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python1/matrix.py">
+    <entry file="file://$PROJECT_DIR$/python1/object1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python1/object/self1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1210">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        <state relative-caret-position="418">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python1/matrix2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python1/range1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python1/random1.py">
+    <entry file="file://$PROJECT_DIR$/ml_interview/kr_tf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/api/1.intro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/tensorflow/python/ops/nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74382">
+          <caret line="3411" column="13" selection-start-line="3411" selection-start-column="13" selection-end-line="3411" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/pickle/p1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_interview/basic_conception/b5_lambda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/collections/dict1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/pickle/1.intro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/bultin_function/zip1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/12.factorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/13.mergesort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/14.quicksort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview_question/1.implement_queue_with_two_stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/1.two sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/6.three sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview_question/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/collections/c1_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/tensorflow/python/layers/convolutional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2486">
+          <caret line="121" column="4" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/keras/engine/sequential.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/tensorflow/python/layers/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2376">
+          <caret line="117" column="13" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/keras/layers/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17776">
+          <caret line="830" column="8" selection-start-line="830" selection-start-column="8" selection-end-line="830" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp1/1.exactly segmetation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/迭代器-生成器/1.intro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sata_structure/tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/random_/randint_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/bultin_function/map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/collections/2.tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/bultin_function/3.dir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-313451744/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2684">
+          <caret line="122" column="4" selection-start-line="122" selection-start-column="4" selection-end-line="122" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5588">
+          <caret line="263" column="8" selection-start-line="263" selection-start-column="8" selection-end-line="263" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/bultin_function/4.variable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/json/1.intro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="48" lean-forward="true" selection-start-line="5" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/pachong/1.intro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+          <folding>
+            <element signature="e#320#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
