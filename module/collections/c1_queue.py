@@ -8,3 +8,15 @@ q1.append(4)
 print(q1)
 #print(a)
 
+import queue
+q2 = queue.Queue()
+q2.put("a")
+q2.put("b")
+
+print(q2.get())
+print(q2)
+
+
+
+
+
