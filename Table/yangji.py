@@ -7,7 +7,7 @@ from sqlalchemy import create_engine
 
 
 class TableOperation:
-    def __init__(self, user='root', password='123456', host='localhost', port=3306, db='yangji'):
+    def __init__(self, user='root', password='123456', host='localhost', port=3306, db='yangji_0626'):
         """
         :param user: 用户名
         :param password: 密码
