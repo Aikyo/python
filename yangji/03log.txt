@@ -1,0 +1,302 @@
+server_info: CPU个数:6,内存容量:8059.37109375 M
+log per 3 seconds
+********** current time  2019-06-28 11:53:24.177390  **********
+ CPU利用率 32.4%
+ Memory利用率 68.8%
+ python_chrome 线程内存使用情况 
+ProcessName:chrome.exe	PID:18652	memory size:143.08 M
+ProcessName:chrome.exe	PID:21152	memory size:7.46 M
+ProcessName:chrome.exe	PID:22772	memory size:8.23 M
+ProcessName:chrome.exe	PID:21084	memory size:99.50 M
+ProcessName:chrome.exe	PID:22296	memory size:31.50 M
+ProcessName:chrome.exe	PID:5104	memory size:39.36 M
+ProcessName:chrome.exe	PID:8620	memory size:58.30 M
+ProcessName:chrome.exe	PID:13292	memory size:59.07 M
+ProcessName:chrome.exe	PID:12720	memory size:82.21 M
+ProcessName:chrome.exe	PID:2436	memory size:57.52 M
+ProcessName:chrome.exe	PID:23560	memory size:60.70 M
+ProcessName:chrome.exe	PID:19148	memory size:64.88 M
+ProcessName:chrome.exe	PID:17240	memory size:40.47 M
+ProcessName:chrome.exe	PID:23344	memory size:70.16 M
+ProcessName:chrome.exe	PID:3188	memory size:75.98 M
+ProcessName:chrome.exe	PID:22732	memory size:23.17 M
+********** current time  2019-06-28 11:53:27.388202  **********
+ CPU利用率 6.5%
+ Memory利用率 68.8%
+ python_chrome 线程内存使用情况 
+ProcessName:chrome.exe	PID:18652	memory size:143.08 M
+ProcessName:chrome.exe	PID:21152	memory size:7.46 M
+ProcessName:chrome.exe	PID:22772	memory size:8.23 M
+ProcessName:chrome.exe	PID:21084	memory size:99.50 M
+ProcessName:chrome.exe	PID:22296	memory size:31.50 M
+ProcessName:chrome.exe	PID:5104	memory size:39.36 M
+ProcessName:chrome.exe	PID:8620	memory size:58.30 M
+ProcessName:chrome.exe	PID:13292	memory size:59.07 M
+ProcessName:chrome.exe	PID:12720	memory size:82.05 M
+ProcessName:chrome.exe	PID:2436	memory size:57.52 M
+ProcessName:chrome.exe	PID:23560	memory size:60.70 M
+ProcessName:chrome.exe	PID:19148	memory size:65.00 M
+ProcessName:chrome.exe	PID:17240	memory size:40.47 M
+ProcessName:chrome.exe	PID:23344	memory size:70.16 M
+ProcessName:chrome.exe	PID:3188	memory size:75.98 M
+ProcessName:chrome.exe	PID:22732	memory size:23.17 M
+********** current time  2019-06-28 11:53:30.605652  **********
+ CPU利用率 29.5%
+ Memory利用率 68.8%
+ python_chrome 线程内存使用情况 
+ProcessName:chrome.exe	PID:18652	memory size:143.10 M
+ProcessName:chrome.exe	PID:21152	memory size:7.46 M
+ProcessName:chrome.exe	PID:22772	memory size:8.23 M
+ProcessName:chrome.exe	PID:21084	memory size:99.50 M
+ProcessName:chrome.exe	PID:22296	memory size:31.50 M
+ProcessName:chrome.exe	PID:5104	memory size:39.36 M
+ProcessName:chrome.exe	PID:8620	memory size:58.30 M
+ProcessName:chrome.exe	PID:13292	memory size:59.07 M
+ProcessName:chrome.exe	PID:12720	memory size:81.87 M
+ProcessName:chrome.exe	PID:2436	memory size:57.52 M
+ProcessName:chrome.exe	PID:23560	memory size:60.70 M
+ProcessName:chrome.exe	PID:19148	memory size:65.14 M
+ProcessName:chrome.exe	PID:17240	memory size:40.47 M
+ProcessName:chrome.exe	PID:23344	memory size:70.16 M
+ProcessName:chrome.exe	PID:3188	memory size:75.98 M
+ProcessName:chrome.exe	PID:22732	memory size:23.17 M
+********** current time  2019-06-28 11:53:33.835450  **********
+ CPU利用率 14.9%
+ Memory利用率 68.8%
+ python_chrome 线程内存使用情况 
+ProcessName:chrome.exe	PID:18652	memory size:143.10 M
+ProcessName:chrome.exe	PID:21152	memory size:7.46 M
+ProcessName:chrome.exe	PID:22772	memory size:8.23 M
+ProcessName:chrome.exe	PID:21084	memory size:99.50 M
+ProcessName:chrome.exe	PID:22296	memory size:31.50 M
+ProcessName:chrome.exe	PID:5104	memory size:39.36 M
+ProcessName:chrome.exe	PID:8620	memory size:58.30 M
+ProcessName:chrome.exe	PID:13292	memory size:59.07 M
+ProcessName:chrome.exe	PID:12720	memory size:81.69 M
+ProcessName:chrome.exe	PID:2436	memory size:57.52 M
+ProcessName:chrome.exe	PID:23560	memory size:60.70 M
+ProcessName:chrome.exe	PID:19148	memory size:65.04 M
+ProcessName:chrome.exe	PID:17240	memory size:40.47 M
+ProcessName:chrome.exe	PID:23344	memory size:70.16 M
+ProcessName:chrome.exe	PID:3188	memory size:75.98 M
+ProcessName:chrome.exe	PID:22732	memory size:23.17 M
+********** current time  2019-06-28 11:53:37.034600  **********
+ CPU利用率 23.5%
+ Memory利用率 68.9%
+ python_chrome 线程内存使用情况 
+ProcessName:chrome.exe	PID:18652	memory size:143.10 M
+ProcessName:chrome.exe	PID:21152	memory size:7.46 M
+ProcessName:chrome.exe	PID:22772	memory size:8.23 M
+ProcessName:chrome.exe	PID:21084	memory size:99.50 M
+ProcessName:chrome.exe	PID:22296	memory size:31.50 M
+ProcessName:chrome.exe	PID:5104	memory size:39.36 M
+ProcessName:chrome.exe	PID:8620	memory size:58.30 M
+ProcessName:chrome.exe	PID:13292	memory size:59.07 M
+ProcessName:chrome.exe	PID:12720	memory size:81.74 M
+ProcessName:chrome.exe	PID:2436	memory size:57.52 M
+ProcessName:chrome.exe	PID:23560	memory size:60.70 M
+ProcessName:chrome.exe	PID:19148	memory size:65.19 M
+ProcessName:chrome.exe	PID:17240	memory size:40.47 M
+ProcessName:chrome.exe	PID:23344	memory size:70.16 M
+ProcessName:chrome.exe	PID:3188	memory size:75.98 M
+ProcessName:chrome.exe	PID:22732	memory size:23.17 M
+********** current time  2019-06-28 11:53:40.238337  **********
+ CPU利用率 5.2%
+ Memory利用率 68.9%
+ python_chrome 线程内存使用情况 
+ProcessName:chrome.exe	PID:18652	memory size:143.10 M
+ProcessName:chrome.exe	PID:21152	memory size:7.46 M
+ProcessName:chrome.exe	PID:22772	memory size:8.23 M
+ProcessName:chrome.exe	PID:21084	memory size:99.50 M
+ProcessName:chrome.exe	PID:22296	memory size:31.50 M
+ProcessName:chrome.exe	PID:5104	memory size:39.36 M
+ProcessName:chrome.exe	PID:8620	memory size:58.30 M
+ProcessName:chrome.exe	PID:13292	memory size:59.07 M
+ProcessName:chrome.exe	PID:12720	memory size:82.41 M
+ProcessName:chrome.exe	PID:2436	memory size:57.52 M
+ProcessName:chrome.exe	PID:23560	memory size:60.70 M
+ProcessName:chrome.exe	PID:19148	memory size:65.32 M
+ProcessName:chrome.exe	PID:17240	memory size:40.47 M
+ProcessName:chrome.exe	PID:23344	memory size:70.16 M
+ProcessName:chrome.exe	PID:3188	memory size:75.98 M
+ProcessName:chrome.exe	PID:22732	memory size:23.17 M
+********** current time  2019-06-28 11:53:43.455741  **********
+ CPU利用率 7.1%
+ Memory利用率 69.0%
+ python_chrome 线程内存使用情况 
+ProcessName:chrome.exe	PID:18652	memory size:143.10 M
+ProcessName:chrome.exe	PID:21152	memory size:7.46 M
+ProcessName:chrome.exe	PID:22772	memory size:8.23 M
+ProcessName:chrome.exe	PID:21084	memory size:99.50 M
+ProcessName:chrome.exe	PID:22296	memory size:31.50 M
+ProcessName:chrome.exe	PID:5104	memory size:39.36 M
+ProcessName:chrome.exe	PID:8620	memory size:58.30 M
+ProcessName:chrome.exe	PID:13292	memory size:59.07 M
+ProcessName:chrome.exe	PID:12720	memory size:82.23 M
+ProcessName:chrome.exe	PID:2436	memory size:57.52 M
+ProcessName:chrome.exe	PID:23560	memory size:60.70 M
+ProcessName:chrome.exe	PID:19148	memory size:65.43 M
+ProcessName:chrome.exe	PID:17240	memory size:40.47 M
+ProcessName:chrome.exe	PID:23344	memory size:70.16 M
+ProcessName:chrome.exe	PID:3188	memory size:75.98 M
+ProcessName:chrome.exe	PID:22732	memory size:23.17 M
+********** current time  2019-06-28 11:53:46.675442  **********
+ CPU利用率 6.8%
+ Memory利用率 69.4%
+ python_chrome 线程内存使用情况 
+ProcessName:chrome.exe	PID:18652	memory size:143.10 M
+ProcessName:chrome.exe	PID:21152	memory size:7.46 M
+ProcessName:chrome.exe	PID:22772	memory size:8.23 M
+ProcessName:chrome.exe	PID:21084	memory size:99.50 M
+ProcessName:chrome.exe	PID:22296	memory size:31.50 M
+ProcessName:chrome.exe	PID:5104	memory size:39.36 M
+ProcessName:chrome.exe	PID:8620	memory size:58.30 M
+ProcessName:chrome.exe	PID:13292	memory size:59.07 M
+ProcessName:chrome.exe	PID:12720	memory size:82.07 M
+ProcessName:chrome.exe	PID:2436	memory size:57.52 M
+ProcessName:chrome.exe	PID:23560	memory size:60.70 M
+ProcessName:chrome.exe	PID:19148	memory size:65.57 M
+ProcessName:chrome.exe	PID:17240	memory size:40.47 M
+ProcessName:chrome.exe	PID:23344	memory size:70.16 M
+ProcessName:chrome.exe	PID:3188	memory size:75.98 M
+ProcessName:chrome.exe	PID:22732	memory size:23.17 M
+********** current time  2019-06-28 11:53:49.877470  **********
+ CPU利用率 5.5%
+ Memory利用率 69.5%
+ python_chrome 线程内存使用情况 
+ProcessName:chrome.exe	PID:18652	memory size:143.10 M
+ProcessName:chrome.exe	PID:21152	memory size:7.46 M
+ProcessName:chrome.exe	PID:22772	memory size:8.23 M
+ProcessName:chrome.exe	PID:21084	memory size:99.50 M
+ProcessName:chrome.exe	PID:22296	memory size:31.50 M
+ProcessName:chrome.exe	PID:5104	memory size:39.36 M
+ProcessName:chrome.exe	PID:8620	memory size:58.30 M
+ProcessName:chrome.exe	PID:13292	memory size:59.07 M
+ProcessName:chrome.exe	PID:12720	memory size:81.89 M
+ProcessName:chrome.exe	PID:2436	memory size:57.52 M
+ProcessName:chrome.exe	PID:23560	memory size:60.70 M
+ProcessName:chrome.exe	PID:19148	memory size:65.72 M
+ProcessName:chrome.exe	PID:17240	memory size:40.47 M
+ProcessName:chrome.exe	PID:23344	memory size:70.16 M
+ProcessName:chrome.exe	PID:3188	memory size:75.98 M
+ProcessName:chrome.exe	PID:22732	memory size:23.17 M
+********** current time  2019-06-28 11:53:53.077312  **********
+ CPU利用率 5.7%
+ Memory利用率 69.4%
+ python_chrome 线程内存使用情况 
+ProcessName:chrome.exe	PID:18652	memory size:143.10 M
+ProcessName:chrome.exe	PID:21152	memory size:7.46 M
+ProcessName:chrome.exe	PID:22772	memory size:8.23 M
+ProcessName:chrome.exe	PID:21084	memory size:99.50 M
+ProcessName:chrome.exe	PID:22296	memory size:31.50 M
+ProcessName:chrome.exe	PID:5104	memory size:39.36 M
+ProcessName:chrome.exe	PID:8620	memory size:58.30 M
+ProcessName:chrome.exe	PID:13292	memory size:59.07 M
+ProcessName:chrome.exe	PID:12720	memory size:81.91 M
+ProcessName:chrome.exe	PID:2436	memory size:57.52 M
+ProcessName:chrome.exe	PID:23560	memory size:60.70 M
+ProcessName:chrome.exe	PID:19148	memory size:65.88 M
+ProcessName:chrome.exe	PID:17240	memory size:40.47 M
+ProcessName:chrome.exe	PID:23344	memory size:70.16 M
+ProcessName:chrome.exe	PID:3188	memory size:75.98 M
+ProcessName:chrome.exe	PID:22732	memory size:23.17 M
+********** current time  2019-06-28 11:53:56.278492  **********
+ CPU利用率 5.1%
+ Memory利用率 69.3%
+ python_chrome 线程内存使用情况 
+ProcessName:chrome.exe	PID:18652	memory size:143.10 M
+ProcessName:chrome.exe	PID:21152	memory size:7.46 M
+ProcessName:chrome.exe	PID:22772	memory size:8.23 M
+ProcessName:chrome.exe	PID:21084	memory size:99.50 M
+ProcessName:chrome.exe	PID:22296	memory size:31.50 M
+ProcessName:chrome.exe	PID:5104	memory size:39.36 M
+ProcessName:chrome.exe	PID:8620	memory size:58.30 M
+ProcessName:chrome.exe	PID:13292	memory size:59.07 M
+ProcessName:chrome.exe	PID:12720	memory size:82.59 M
+ProcessName:chrome.exe	PID:2436	memory size:57.52 M
+ProcessName:chrome.exe	PID:23560	memory size:60.70 M
+ProcessName:chrome.exe	PID:19148	memory size:63.80 M
+ProcessName:chrome.exe	PID:17240	memory size:40.47 M
+ProcessName:chrome.exe	PID:23344	memory size:70.16 M
+ProcessName:chrome.exe	PID:3188	memory size:75.98 M
+ProcessName:chrome.exe	PID:22732	memory size:23.17 M
+********** current time  2019-06-28 11:53:59.483697  **********
+ CPU利用率 6.3%
+ Memory利用率 69.3%
+ python_chrome 线程内存使用情况 
+ProcessName:chrome.exe	PID:18652	memory size:143.10 M
+ProcessName:chrome.exe	PID:21152	memory size:7.46 M
+ProcessName:chrome.exe	PID:22772	memory size:8.23 M
+ProcessName:chrome.exe	PID:21084	memory size:99.50 M
+ProcessName:chrome.exe	PID:22296	memory size:31.50 M
+ProcessName:chrome.exe	PID:5104	memory size:39.36 M
+ProcessName:chrome.exe	PID:8620	memory size:58.30 M
+ProcessName:chrome.exe	PID:13292	memory size:59.07 M
+ProcessName:chrome.exe	PID:12720	memory size:82.41 M
+ProcessName:chrome.exe	PID:2436	memory size:57.52 M
+ProcessName:chrome.exe	PID:23560	memory size:60.70 M
+ProcessName:chrome.exe	PID:19148	memory size:63.89 M
+ProcessName:chrome.exe	PID:17240	memory size:40.47 M
+ProcessName:chrome.exe	PID:23344	memory size:70.16 M
+ProcessName:chrome.exe	PID:3188	memory size:75.98 M
+ProcessName:chrome.exe	PID:22732	memory size:23.17 M
+********** current time  2019-06-28 11:54:02.701756  **********
+ CPU利用率 8.2%
+ Memory利用率 69.7%
+ python_chrome 线程内存使用情况 
+ProcessName:chrome.exe	PID:18652	memory size:143.08 M
+ProcessName:chrome.exe	PID:21152	memory size:7.46 M
+ProcessName:chrome.exe	PID:22772	memory size:8.23 M
+ProcessName:chrome.exe	PID:21084	memory size:99.50 M
+ProcessName:chrome.exe	PID:22296	memory size:31.50 M
+ProcessName:chrome.exe	PID:5104	memory size:39.36 M
+ProcessName:chrome.exe	PID:8620	memory size:58.30 M
+ProcessName:chrome.exe	PID:13292	memory size:59.07 M
+ProcessName:chrome.exe	PID:12720	memory size:82.26 M
+ProcessName:chrome.exe	PID:2436	memory size:57.52 M
+ProcessName:chrome.exe	PID:23560	memory size:60.70 M
+ProcessName:chrome.exe	PID:19148	memory size:63.99 M
+ProcessName:chrome.exe	PID:17240	memory size:40.47 M
+ProcessName:chrome.exe	PID:23344	memory size:70.16 M
+ProcessName:chrome.exe	PID:3188	memory size:75.98 M
+ProcessName:chrome.exe	PID:22732	memory size:23.17 M
+********** current time  2019-06-28 11:54:05.908287  **********
+ CPU利用率 6.4%
+ Memory利用率 69.6%
+ python_chrome 线程内存使用情况 
+ProcessName:chrome.exe	PID:18652	memory size:143.08 M
+ProcessName:chrome.exe	PID:21152	memory size:7.46 M
+ProcessName:chrome.exe	PID:22772	memory size:8.23 M
+ProcessName:chrome.exe	PID:21084	memory size:99.50 M
+ProcessName:chrome.exe	PID:22296	memory size:31.50 M
+ProcessName:chrome.exe	PID:5104	memory size:39.36 M
+ProcessName:chrome.exe	PID:8620	memory size:58.30 M
+ProcessName:chrome.exe	PID:13292	memory size:59.07 M
+ProcessName:chrome.exe	PID:12720	memory size:82.17 M
+ProcessName:chrome.exe	PID:2436	memory size:57.52 M
+ProcessName:chrome.exe	PID:23560	memory size:60.70 M
+ProcessName:chrome.exe	PID:19148	memory size:64.13 M
+ProcessName:chrome.exe	PID:17240	memory size:40.47 M
+ProcessName:chrome.exe	PID:23344	memory size:70.16 M
+ProcessName:chrome.exe	PID:3188	memory size:75.98 M
+ProcessName:chrome.exe	PID:22732	memory size:23.17 M
+********** current time  2019-06-28 11:54:09.110563  **********
+ CPU利用率 6.5%
+ Memory利用率 69.5%
+ python_chrome 线程内存使用情况 
+ProcessName:chrome.exe	PID:18652	memory size:143.08 M
+ProcessName:chrome.exe	PID:21152	memory size:7.46 M
+ProcessName:chrome.exe	PID:22772	memory size:8.23 M
+ProcessName:chrome.exe	PID:21084	memory size:99.50 M
+ProcessName:chrome.exe	PID:22296	memory size:31.50 M
+ProcessName:chrome.exe	PID:5104	memory size:39.36 M
+ProcessName:chrome.exe	PID:8620	memory size:58.30 M
+ProcessName:chrome.exe	PID:13292	memory size:59.07 M
+ProcessName:chrome.exe	PID:12720	memory size:82.00 M
+ProcessName:chrome.exe	PID:2436	memory size:57.52 M
+ProcessName:chrome.exe	PID:23560	memory size:60.70 M
+ProcessName:chrome.exe	PID:19148	memory size:64.23 M
+ProcessName:chrome.exe	PID:17240	memory size:40.47 M
+ProcessName:chrome.exe	PID:23344	memory size:70.16 M
+ProcessName:chrome.exe	PID:3188	memory size:75.98 M
+ProcessName:chrome.exe	PID:22732	memory size:23.17 M

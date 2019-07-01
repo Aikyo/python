@@ -71,7 +71,7 @@ if __name__ == '__main__':
     ChromeProcess = 'chrome.exe'
     text = open( title + '.txt', 'w')
     memory = psutil.virtual_memory()
-    text.write("CPU个数{},内存容量{} M".format(psutil.cpu_count(),memory.total/1024/1024) + "\n")
+    text.write("server_info: CPU个数:{},内存容量:{} M".format(psutil.cpu_count(),memory.total/1024/1024) + "\n")
     text.write("log per {} seconds".format(seconds) + "\n")
     text.close()
     while True:

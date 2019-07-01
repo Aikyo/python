@@ -2,6 +2,9 @@ from Table.yangji import TableOperation
 import pandas as pd
 
 table = TableOperation()
+conn = table.get_py_connect()
+
+
 #sql = "SELECT * FROM yangji.process limit 10;"
 daily_sql = """
 SELECT time as 时间 ,name as 类型, slot as 槽位, quantity as 数量 
@@ -37,8 +40,6 @@ where in_slot_time is not null and out_slot_time is not null and in_slot_time > 
 GROUP BY t.slot
 ORDER BY t.slot
 """
-
-conn = table.get_py_connect()
 
 df = pd.read_sql(overtime_sql2,conn)
 df.to_excel('0626_overtime.xls')
