@@ -1,0 +1,21 @@
+CPU个数6,内存容量8059.37109375 M
+log per 3 seconds
+********** current time  2019-06-28 10:43:57.377711  **********
+ CPU利用率 43.0%
+ Memory利用率 64.2%
+ python_chrome 线程内存使用情况 
+ProcessName:python.exe	PID:11472	memory size:7.00 M
+ProcessName:python.exe	PID:4352	memory size:39.32 M
+ProcessName:python.exe	PID:16140	memory size:122.71 M
+ProcessName:chrome.exe	PID:9156	memory size:105.61 M
+ProcessName:chrome.exe	PID:17272	memory size:6.67 M
+ProcessName:chrome.exe	PID:4044	memory size:6.93 M
+ProcessName:chrome.exe	PID:6072	memory size:73.58 M
+ProcessName:chrome.exe	PID:14256	memory size:26.11 M
+ProcessName:chrome.exe	PID:11716	memory size:26.46 M
+ProcessName:chrome.exe	PID:20196	memory size:32.57 M
+ProcessName:chrome.exe	PID:24728	memory size:24.12 M
+ProcessName:chrome.exe	PID:25676	memory size:85.77 M
+ProcessName:chrome.exe	PID:25008	memory size:48.86 M
+ProcessName:chrome.exe	PID:11912	memory size:105.47 M
+ProcessName:chrome.exe	PID:20592	memory size:22.45 M
