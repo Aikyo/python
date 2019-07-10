@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cba8d839-5ab9-4ddf-8d0f-37589fc95e0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/yangji/formula_crane_separate/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yangji/formula_crane_separate/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yangji/formula_crane_separate/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yangji/slot_check/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cba8d839-5ab9-4ddf-8d0f-37589fc95e0d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
-              <caret line="127" column="24" lean-forward="true" selection-start-line="127" selection-start-column="24" selection-end-line="127" selection-end-column="24" />
+              <caret line="127" column="24" selection-start-line="127" selection-start-column="24" selection-end-line="127" selection-end-column="24" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -524,7 +518,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21074815" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16491044" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -731,16 +725,14 @@
     <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/summation/summation7.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/ddd.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/ddd.png" />
     <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/天车汇总.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="127" column="24" lean-forward="true" selection-start-line="127" selection-start-column="24" selection-end-line="127" selection-end-column="24" />
+          <caret line="127" column="24" selection-start-line="127" selection-start-column="24" selection-end-line="127" selection-end-column="24" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
