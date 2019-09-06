@@ -2,106 +2,80 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cba8d839-5ab9-4ddf-8d0f-37589fc95e0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/basic_conception/1.class annotion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorators/1.intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/j1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/titanic/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/bultin_function/zip2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/bultin_function/zip3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/collections/dict2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/collections/dict4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/collections/dict5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/collections/dit3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/collections/list_slice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/collections/set1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/id.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/re/#sort_digit_alp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/re/1.match.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/time1/1.intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-process_multi-thread/multi-thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-process_multi-thread/multiprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/6.filna.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/access.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/cut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/dataframe/1.tojson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/dataframe/2.tuple_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/series/1.intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/utils/1.isna.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/bd_sqlconnect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/db_tool/1.db_sql_connect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/db_tool/2.test_sqlac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/db_tool/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/db_tool/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/export_excel/export.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/export_excel/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/get_formula_by_name/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/pandas/1.create_formula.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/pole/jsonload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/pole/pole.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/pole/pole1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/pole/pole2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/replace/2replace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/replace/qq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/warning/keystart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/whole/ho.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/产能/day.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/产能/target.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/产能/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/产能/test_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/产能/testindex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/超时时间/huatu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/超时时间/huatu2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/超时时间/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/超时时间/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/超时时间/main3_0902_overtime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/超时时间/main4_average_overtime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/超时时间/main5_上料间隔图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/超时时间/main_超时间by_slot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/超时时间/moni_上料间隔.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/超时时间/moni_下料间隔.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/超时时间/moni_配方超时.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/超时时间/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/超时时间/test11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/超时时间/whole_formula.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangji/超时时间/模拟_byslot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/.30黑验证.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/3D打印机本色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/3D打印机黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/J94连接块.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/J95连接块.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/Q专案上下板黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/Q专案侧板黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/Q专案后板黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/Q专案小按键黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/Q专案旋钮黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/Q专案机角黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/Q前板黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T363上盖粗砂.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T363上盖细砂.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T363卡套.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T363右下盖.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T363左下盖一.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T363左下盖二.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T363把手.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T363把手挂具退镀.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T363散热器.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T363风扇架A.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T363风扇架B.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T625上盖1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T625上盖2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T625左下盖.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T625底盖.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T677中隔板.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T677地板.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T677法兰.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/TAR.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/X480.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/summation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/便当盒.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/净化器下盖.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/带料退镀.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/思科上盖.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/思科面板.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/挂具退镀.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/散热板带螺柱.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/散热板无螺柱.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/电子烟本色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/电子烟黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/空气净化器上盖大料.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/空飞杆运行.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/贝儿金黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/边框按键黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/边框黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/验证MT-27.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/.30黑验证.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/3D打印机本色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/3D打印机黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/J94连接块.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/J95连接块.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/Q专案上下板黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/Q专案侧板黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/Q专案后板黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/Q专案小按键黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/Q专案旋钮黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/Q专案机角黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/Q前板黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/T363上盖粗砂.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/T363上盖细砂.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/T363卡套.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/T363右下盖.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/T363左下盖一.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/T363左下盖二.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/T363把手.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/T363把手挂具退镀.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/T363散热器.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/T363风扇架A.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/T363风扇架B.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/T625上盖1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/T625上盖2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/T625左下盖.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/T625底盖.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/T677中隔板.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/T677地板.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/T677法兰.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/TAR.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/X480.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/便当盒.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/净化器下盖.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/天车汇总.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/带料退镀.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/思科上盖.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/思科面板.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/挂具退镀.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/散热板带螺柱.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/散热板无螺柱.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/汇总.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/电子烟本色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/电子烟黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/空气净化器上盖大料.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/空飞杆运行.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/贝儿金黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/边框按键黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/边框黑色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/验证MT-27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table/yangji.py" beforeDir="false" afterPath="$PROJECT_DIR$/Table/yangji.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas/3.DateFrame.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/3.DateFrame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas/4.dropna.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/4.dropna.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas/5.dataframe_query.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/5.dataframe_query.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas/series.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/series.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/formula_crane_separate.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/formula_crane_separate1111.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/yangji/formula_crane_separate/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yangji/formula_crane_separate/totalss7788811111111111.xls" beforeDir="false" afterPath="$PROJECT_DIR$/yangji/formula_crane_separate/totalss7788811111111111.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yangji/get_formula_by_slot/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/yangji/get_formula_by_slot/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -109,16 +83,100 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/main.py">
+        <entry file="file://$PROJECT_DIR$/yangji/超时时间/main_超时间by_slot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5">
-              <caret line="127" column="24" selection-start-line="127" selection-start-column="24" selection-end-line="127" selection-end-column="24" />
+            <state relative-caret-position="1488">
+              <caret line="139" column="17" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="17" />
               <folding>
-                <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#3#42#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yangji/超时时间/whole_formula.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="97" column="7" lean-forward="true" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
+              <folding>
+                <element signature="e#3#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yangji/超时时间/test11.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/envs/dev3/Lib/site-packages/pandas/core/frame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1005">
+              <caret line="6390" column="8" selection-start-line="6390" selection-start-column="8" selection-end-line="6390" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni_上料间隔.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" selection-start-line="9" selection-start-column="9" selection-end-line="11" />
+              <folding>
+                <element signature="e#997#1036#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yangji/超时时间/0906_xl/0905_1.jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yangji/超时时间/0906_xl/0905_2.jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yangji/超时时间/0906_xl/0906_1.jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Table/yangji.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <folding>
+                <element signature="e#24#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni_下料间隔.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -132,75 +190,94 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>total_time</find>
+      <find>ttime</find>
+      <find>pole</find>
+      <find>df</find>
+      <find>db_info</find>
+      <find>create_engine</find>
+      <find>mpl</find>
+      <find>TableOperation</find>
+      <find>peifang</find>
+      <find>writer</find>
+      <find>by_slot</find>
+      <find>over</find>
+      <find>ls1</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/packages/pandas/1.intro_series.py" />
-        <option value="$PROJECT_DIR$/packages/pandas/2.dataform.py" />
-        <option value="$PROJECT_DIR$/module/threading_/1.xc.py" />
-        <option value="$PROJECT_DIR$/module/threading_/2.xc2.py" />
-        <option value="$PROJECT_DIR$/algorithm/15.binarysearch.py" />
-        <option value="$PROJECT_DIR$/soket/soket_server.py" />
-        <option value="$PROJECT_DIR$/soket_/soket_server.py" />
-        <option value="$PROJECT_DIR$/soket_/soket_client.py" />
-        <option value="$PROJECT_DIR$/module/collections/c1_queue.py" />
-        <option value="$PROJECT_DIR$/module/threading_/3.threading_order.py" />
-        <option value="$PROJECT_DIR$/soket_/socket_client.py" />
-        <option value="$PROJECT_DIR$/soket_/test.py" />
-        <option value="$PROJECT_DIR$/encode_/1.str_bytes.py" />
-        <option value="$PROJECT_DIR$/soket_/socket_server.py" />
-        <option value="$PROJECT_DIR$/wechat/tuwei.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/module/collections/3.collection_operate.py" />
-        <option value="$PROJECT_DIR$/tricks/demo.py" />
-        <option value="$PROJECT_DIR$/tricks/make_pyd.py" />
-        <option value="$PROJECT_DIR$/static/herman" />
-        <option value="$PROJECT_DIR$/module/path/a.py" />
-        <option value="$PROJECT_DIR$/module/collections/4.set.py" />
-        <option value="$PROJECT_DIR$/yangji/Table.py" />
-        <option value="$PROJECT_DIR$/yangji/toExcel.py" />
-        <option value="$PROJECT_DIR$/Table/yangji.py" />
-        <option value="$PROJECT_DIR$/yangji/test.py" />
-        <option value="$PROJECT_DIR$/yangji/memory_status.txt" />
-        <option value="$PROJECT_DIR$/yangji/test2.py" />
-        <option value="$PROJECT_DIR$/yangji/process.py" />
-        <option value="$PROJECT_DIR$/yangji/throuhold_toexcel.py" />
-        <option value="$PROJECT_DIR$/yangji/shangxialiao_toExcel.py" />
-        <option value="$PROJECT_DIR$/yangji/pandas_columns1.py" />
-        <option value="$PROJECT_DIR$/yangji/threshold_toexcel.py" />
-        <option value="$USER_HOME$/Documents/WeChat Files/a274903423/FileStorage/File/2019-06/process(2)(1).py" />
-        <option value="$PROJECT_DIR$/yangji/闲置时间/main.py" />
-        <option value="$PROJECT_DIR$/yangji/瓶颈时间/test.py" />
-        <option value="$PROJECT_DIR$/yangji/color/col.py" />
-        <option value="$PROJECT_DIR$/yangji/get_formula_by_slot/test.py" />
-        <option value="$PROJECT_DIR$/yangji/get_formula_by_slot/test1.py" />
-        <option value="$PROJECT_DIR$/yangji/get_formula_by_slot/test4.py" />
-        <option value="$PROJECT_DIR$/module/bultin_function/map.py" />
-        <option value="$PROJECT_DIR$/mutiprocess/processpool.py" />
-        <option value="$PROJECT_DIR$/yangji/get_formula_by_slot/main.py" />
-        <option value="$PROJECT_DIR$/yangji/slot_check/main.py" />
-        <option value="$PROJECT_DIR$/yangji/瓶颈时间/main.py" />
-        <option value="$PROJECT_DIR$/yangji/formula_crane_separate/test2.py" />
-        <option value="$PROJECT_DIR$/yangji/formula_crane_separate/test.py" />
+        <option value="$PROJECT_DIR$/pandas/cut.py" />
+        <option value="$PROJECT_DIR$/yangji/产能/test_index.py" />
+        <option value="$PROJECT_DIR$/yangji/产能/testindex.py" />
+        <option value="$PROJECT_DIR$/pandas/series/1.intro.py" />
+        <option value="$PROJECT_DIR$/yangji/产能/day.py" />
+        <option value="$PROJECT_DIR$/multi-process_multi-thread/multi-thread.py" />
+        <option value="$PROJECT_DIR$/multi-process_multi-thread/multiprocess.py" />
+        <option value="$PROJECT_DIR$/decorators/1.intro.py" />
+        <option value="$PROJECT_DIR$/module/id.py" />
+        <option value="$PROJECT_DIR$/module/collections/set1.py" />
+        <option value="$PROJECT_DIR$/module/bultin_function/zip2.py" />
+        <option value="$PROJECT_DIR$/module/bultin_function/zip3.py" />
+        <option value="$PROJECT_DIR$/module/time1/1.intro.py" />
+        <option value="$PROJECT_DIR$/pandas/dataframe/1.tojson.py" />
+        <option value="$PROJECT_DIR$/basic_conception/1.class annotion.py" />
+        <option value="$PROJECT_DIR$/module/collections/dict5.py" />
+        <option value="$PROJECT_DIR$/pandas/utils/isna.py" />
+        <option value="$PROJECT_DIR$/pandas/utils/1.isna.py" />
+        <option value="$PROJECT_DIR$/yangji/replace/去.py" />
+        <option value="$PROJECT_DIR$/pandas/dataframe/2.tuple_.py" />
+        <option value="$PROJECT_DIR$/yangji/replace/qq.py" />
+        <option value="$PROJECT_DIR$/yangji/replace/2replace.py" />
+        <option value="$PROJECT_DIR$/module/re/1.match.py" />
+        <option value="$PROJECT_DIR$/module/re/#sort_digit_alp.py" />
+        <option value="$PROJECT_DIR$/yangji/pandas/1.create_formula.py" />
+        <option value="$PROJECT_DIR$/yangji/bd_sqlconnect.py" />
+        <option value="$PROJECT_DIR$/yangji/db_tool/1.db_sql_connect.py" />
+        <option value="$PROJECT_DIR$/pandas/6.filna.py" />
+        <option value="$PROJECT_DIR$/yangji/db_tool/2.test_sqlac.py" />
+        <option value="$PROJECT_DIR$/yangji/db_tool/test1.py" />
+        <option value="$PROJECT_DIR$/yangji/get_formula_by_name/main.py" />
+        <option value="$PROJECT_DIR$/yangji/超时时间/main.py" />
+        <option value="$PROJECT_DIR$/yangji/超时时间/main2.py" />
+        <option value="$PROJECT_DIR$/yangji/超时时间/main3.py" />
+        <option value="$PROJECT_DIR$/yangji/超时时间/test.py" />
+        <option value="$PROJECT_DIR$/yangji/超时时间/main3_0902_overtime.py" />
+        <option value="$PROJECT_DIR$/yangji/超时时间/main5.py" />
         <option value="$PROJECT_DIR$/yangji/formula_crane_separate/main.py" />
+        <option value="$PROJECT_DIR$/yangji/超时时间/huatu.py" />
+        <option value="$PROJECT_DIR$/yangji/超时时间/huatu2.py" />
+        <option value="$PROJECT_DIR$/yangji/超时时间/模拟.py" />
+        <option value="$PROJECT_DIR$/yangji/超时时间/moni_配方超时.py" />
+        <option value="$PROJECT_DIR$/yangji/超时时间/模拟_byslot.py" />
+        <option value="$PROJECT_DIR$/Table/yangji.py" />
+        <option value="$PROJECT_DIR$/yangji/超时时间/main4_average_overtime.py" />
+        <option value="$PROJECT_DIR$/yangji/超时时间/test11.py" />
+        <option value="$PROJECT_DIR$/yangji/超时时间/main5_上料间隔图.py" />
+        <option value="$PROJECT_DIR$/yangji/超时时间/moni_上料间隔.py" />
+        <option value="$PROJECT_DIR$/yangji/超时时间/main6_下料时间.py" />
+        <option value="$PROJECT_DIR$/yangji/超时时间/main_超时间by_slot.py" />
+        <option value="$PROJECT_DIR$/yangji/超时时间/whole_formula.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="195" />
-    <option name="y" value="13" />
-    <option name="width" value="1524" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="656" />
+    <option name="height" value="456" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,33 +288,195 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="Table" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="Table" type="462c0819:PsiDirectoryNode" />
+              <item name="yangji.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="Table" type="462c0819:PsiDirectoryNode" />
+              <item name="yangji.py" type="8704e2dd:PyFileNode" />
+              <item name="TableOperation" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="yangji" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="yangji" type="462c0819:PsiDirectoryNode" />
-              <item name="formula_crane_separate" type="462c0819:PsiDirectoryNode" />
+              <item name="formula_crane_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="yangji" type="462c0819:PsiDirectoryNode" />
+              <item name="超时时间" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="yangji" type="462c0819:PsiDirectoryNode" />
+              <item name="超时时间" type="462c0819:PsiDirectoryNode" />
+              <item name="main_超时间by_slot.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (dev3) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (dev3) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="dev3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (dev3) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="dev3" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (dev3) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="dev3" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (dev3) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="dev3" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pandas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (dev3) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="dev3" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pandas" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (dev3) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="dev3" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pandas" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="frame.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (dev3) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="dev3" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pandas" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="frame.py" type="8704e2dd:PyFileNode" />
+              <item name="DataFrame" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (dev3) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (dev3) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (dev3) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pandas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (dev3) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pandas" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (dev3) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pandas" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="frame.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (dev3) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pandas" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="frame.py" type="8704e2dd:PyFileNode" />
+              <item name="DataFrame" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (dev3) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Table" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/yangji/pole" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\27490\Desktop\repo\python\Table" />
-      <recent name="C:\Users\27490\Desktop\repo\python\static" />
-      <recent name="C:\Users\27490\Desktop\repo\python\module" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\27490\Desktop\repo\python\module\path" />
+      <recent name="C:\Users\27490\Desktop\repo\python\module" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\27490\Desktop\repo\python\yangji\pole" />
+      <recent name="C:\Users\27490\Desktop\repo\python\Table" />
+      <recent name="C:\Users\27490\Desktop\repo\python\static" />
       <recent name="C:\Users\27490\Desktop\repo\python\module" />
     </key>
   </component>
@@ -253,8 +492,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.whole_formula">
+    <configuration name="main5_上料间隔图" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,11 +501,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yangji/瓶颈时间" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yangji/超时时间" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yangji/瓶颈时间/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yangji/超时时间/main5_上料间隔图.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +514,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main6_下料时间" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,11 +522,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yangji/get_formula_by_slot" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yangji/超时时间" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yangji/get_formula_by_slot/main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\27490\Desktop\repo\python\yangji\超时时间\moni_下料间隔.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,7 +535,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main_超时间by_slot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -304,11 +543,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yangji/formula_crane_separate" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yangji/超时时间" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yangji/formula_crane_separate/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yangji/超时时间/main_超时间by_slot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,7 +556,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="moni_上料间隔" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,11 +564,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yangji/formula_crane_separate" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yangji/超时时间" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yangji/formula_crane_separate/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yangji/超时时间/moni_上料间隔.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,7 +577,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="whole_formula" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -346,11 +585,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yangji/formula_crane_separate" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yangji/超时时间" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yangji/formula_crane_separate/test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yangji/超时时间/whole_formula.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -361,11 +600,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.test2" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.whole_formula" />
+        <item itemvalue="Python.main_超时间by_slot" />
+        <item itemvalue="Python.main6_下料时间" />
+        <item itemvalue="Python.moni_上料间隔" />
+        <item itemvalue="Python.main5_上料间隔图" />
       </list>
     </recent_temporary>
   </component>
@@ -382,15 +621,33 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_index_py - 2019.07.25 at 09h 58m 38s.xml">
+      <configuration name="pytest in test_index.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_index_py - 2019.07.25 at 09h 58m 45s.xml">
+      <configuration name="pytest in test_index.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_index_py - 2019.07.25 at 09h 59m 15s.xml">
+      <configuration name="pytest in test_index.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_index_py - 2019.07.25 at 09h 59m 27s.xml">
+      <configuration name="pytest in test_index.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_index_py - 2019.07.25 at 09h 59m 35s.xml">
+      <configuration name="pytest in test_index.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16491044" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.20442571" />
+      <window_info id="Structure" order="1" sideWeight="0.50091076" side_tool="true" weight="0.24183351" />
+      <window_info id="Favorites" order="2" sideWeight="0.50091076" side_tool="true" weight="0.24183351" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962137" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33741647" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3051225" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40979955" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -398,7 +655,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.26837417" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32962137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -412,196 +669,300 @@
           <line>55</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/yangji/超时时间/main.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/yangji/超时时间/huatu2.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>df_total.index[45]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>df_total.index[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>type(df_total.index)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>df_total.index</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>df_total</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>data</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>total</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>df.describe()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian/Q专案旋钮黑色.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian/Q前板黑色.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian/T625上盖2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian/验证MT-27.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian/边框黑色.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian/贝儿金黑色.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian/挂具退镀.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian/T677法兰.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian/T677中隔板.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian/T625底盖.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian/T625左下盖.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian/T625上盖1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian/TAR.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian/X480.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/.30黑验证.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/Q前板黑色.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T363上盖粗砂.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T363卡套.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T625底盖.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/T677地板.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/Q专案后板黑色.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/J95连接块.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/3D打印机黑色.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/X480.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/TAR.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/带料退镀.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/净化器下盖.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/J94连接块.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/Q专案上下板黑色.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/Q专案小按键黑色.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/Q专案机角黑色.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/3D打印机本色.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/test2.py">
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/main3_0902_overtime.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="252">
+          <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#1#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/闲置时间/main.py">
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni_配方超时.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-735">
-          <caret line="8" column="11" selection-start-line="8" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/瓶颈时间/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="28" column="27" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/threshold_toexcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-683">
+        <state relative-caret-position="315">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#1#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni/89.jpeg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/shangxialiao_toExcel.py">
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni/87.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni/85.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni/15.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni/20.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni/19.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni/34.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni/36.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni/47.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni/76.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni/79.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni/81.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/data/下料interval.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/模拟_byslot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="48" />
+        <state relative-caret-position="42">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#3#42#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/summation/summation4.png">
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni2/33.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/summation/summation1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/summation/summation2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/summation/summation3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/summation/summation5.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/summation/summation0.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/summation/summation6.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian2/summation.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/pgffff.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/summation/summation7.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/ddd.png" />
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/tupian3/天车汇总.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yangji/formula_crane_separate/main.py">
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/main4_average_overtime.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5">
-          <caret line="127" column="24" selection-start-line="127" selection-start-column="24" selection-end-line="127" selection-end-column="24" />
+        <state relative-caret-position="1554">
+          <caret line="78" column="15" selection-start-line="78" selection-start-column="15" selection-end-line="78" selection-end-column="15" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#1#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni2/26.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni2/31.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/data/test.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/data/34.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/data/33.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/data/43.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/data/interval.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni/14.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/data/interval2.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni2/43.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni2/34.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni/interval2.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Table/yangji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni_0906/70.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni_0906/16.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni_0906/19.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni_0906/20.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni_0906/24.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni_0906/25.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni_0906/26.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://D:/envs/dev3/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1005">
+          <caret line="6390" column="8" selection-start-line="6390" selection-start-column="8" selection-end-line="6390" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/test11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni_0906_2/interval.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni_0906_3/interval.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni_0906/interval.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/0906_xl/0905_1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/0906_xl/0905_2.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/0906_xl/0906_1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/main5_上料间隔图.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni_下料间隔.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/moni_上料间隔.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" selection-start-line="9" selection-start-column="9" selection-end-line="11" />
+          <folding>
+            <element signature="e#997#1036#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/whole_formula.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="97" column="7" lean-forward="true" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
+          <folding>
+            <element signature="e#3#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yangji/超时时间/main_超时间by_slot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1488">
+          <caret line="139" column="17" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="17" />
+          <folding>
+            <element signature="e#3#42#0" expanded="true" />
           </folding>
         </state>
       </provider>
